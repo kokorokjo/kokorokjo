@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A junior programer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokorokjo&label=Profile%20views&color=0e75b6&style=flat" alt="kokorokjo" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **szollosmartin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
