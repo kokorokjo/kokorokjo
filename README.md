@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Qt Projects**
+- 🔭 I’m currently working on **Improving my coding skills**
 
 - 🌱 I’m currently learning **Qt 6**
 
